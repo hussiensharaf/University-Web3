@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 abi/
 bin/
 python/__pycache__/
@@ -8,3 +9,9 @@ python/datasource/__pycache__/
 python/contracts/__pycache__/
 python/models/__pycache__/
  
+=======
+config.json
+__pycache__
+.vscode/
+.idea/
+>>>>>>> 04f4ed994e9d658d55c20cf71bc416aa1d133cef
